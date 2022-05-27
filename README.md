@@ -1,17 +1,15 @@
 # Hi there ! Welcome on my GitHub profile 👋
 
-## About me
+## About me 🙎🏻‍♀️
 
 I'm currently learning at [BeCode](https://becode.org/) to become a frontend developper.
 I'm interested in web design and UX/UI design.
 
-🧠 Communicating, teaching, writing, creating content, managing a project, analysing and synthetising
+**>** Communicating, teaching, writing, creating content, managing a project, analysing and synthetising
+**>** Meticulous, organised, autonomous, observant, creative, curious, good listener
+**>** I sew, read a lot, craft, do yoga and love art history
 
-🙎🏻‍♀️ Meticulous, organised, autonomous, observant, creative, curious, good listener
-
-🎨 I sew, read a lot, craft, do yoga and love art history
-
-## Tools & languages
+## Tools & languages 🧰
 
 ### General tools
 
@@ -38,11 +36,10 @@ I'm interested in web design and UX/UI design.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## Want to connect with me ?
+## Want to connect with me ? 🤝
 
-🤝 [Linkedin](https://www.linkedin.com/in/epourtois/)
-
-✉️ [Email](mailto:elisepourtois.pro@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/epourtois/)
+- [Email](mailto:elisepourtois.pro@gmail.com)
 
 <!--
 **eliseprts/eliseprts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
