@@ -38,8 +38,9 @@ I sew, read a lot, craft, do yoga and love art history
 
 ## Want to connect with me ?
 
-[Linkedin](https://www.linkedin.com/in/epourtois/)
-[Email](mailto:elisepourtois.pro@gmail.com)
+🤝 [Linkedin](https://www.linkedin.com/in/epourtois/)
+
+✉️ [Email](mailto:elisepourtois.pro@gmail.com)
 
 <!--
 **eliseprts/eliseprts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
