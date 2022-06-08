@@ -5,11 +5,9 @@
 I'm currently learning at [BeCode](https://becode.org/) to become a frontend developper.
 I'm interested in web design and UX/UI design.
 
-**>** Communicating, teaching, writing, creating content, managing a project, analysing and synthetising
-
-**>** Meticulous, organised, autonomous, observant, creative, curious, good listener
-
-**>** I sew, read a lot, craft, do yoga and love art history
+- Communicating, teaching, writing, creating content, managing a project, analysing and synthetising
+- Meticulous, organised, autonomous, observant, creative, curious, good listener
+- I sew, read a lot, craft, do yoga and love art history
 
 ## Tools & languages 🧰
 
