@@ -3,7 +3,7 @@
 ## About me 🙎🏻‍♀️
 
 I'm currently learning at [BeCode](https://becode.org/) to become a frontend developper.
-I'm interested in web design and UX/UI design.
+I'm also interested in web design and UX/UI design.
 
 - Communicating, teaching, writing, creating content, managing a project, analysing and synthetising
 - Meticulous, organised, autonomous, observant, creative, curious, good listener
